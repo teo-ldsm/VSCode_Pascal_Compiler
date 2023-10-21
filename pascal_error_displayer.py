@@ -97,3 +97,9 @@ class Error:
 if __name__ == '__main__':
     erreur = Error("(273,9) Fatal: Syntax error, \";\" expected but \"identifier READLN\" found")
     # erreur.error_analyser()
+
+
+
+################################
+##   Crée par Téo Landsmann   ##
+################################
