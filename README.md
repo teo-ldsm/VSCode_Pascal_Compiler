@@ -21,10 +21,11 @@ Pour lancer le programme, vous devez faire Ctrl+Maj+T (pour test)
 ### Installation :
 
 Vous pouvez installer automatiquement avec l'installateur
-[présent ici](https://github.com/teo-ldsm/VSCode_Pascal_Compiler/realeases/latest)
+[présent ici](https://github.com/teo-ldsm/VSCode_Pascal_Compiler/releases/latest)
 
 Sinon, vous pouvez installer le programme en copiant manuellement les 
 fichiers dans les répertoires suivants :
+
 ```tasks.json``` / ```keybindings.json``` --> 
 AppData\Roaming\Code\User
 
