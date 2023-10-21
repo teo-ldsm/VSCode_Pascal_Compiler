@@ -25,6 +25,7 @@ Vous pouvez installer automatiquement avec l'installateur
 
 Sinon, vous pouvez installer le programme en copiant manuellement les 
 fichiers dans les répertoires suivants :
+
 ```tasks.json``` / ```keybindings.json``` --> 
 AppData\Roaming\Code\User
 
