@@ -1,0 +1,11 @@
+// Placer vos combinaisons de touches dans ce fichier pour remplacer les valeurs par défautauto[]
+[
+    {
+        "key": "ctrl+shift+t",
+        "command": "workbench.action.tasks.test"
+    },
+    {
+        "key": "ctrl+shift+alt+f",
+        "command": "workbench.action.tasks.openUserTasks"
+    }
+]
