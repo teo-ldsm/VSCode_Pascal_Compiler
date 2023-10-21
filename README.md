@@ -17,7 +17,23 @@ Pour lancer le programme, vous devez faire Ctrl+Maj+T (pour test)
 
 <br>
 
-Liste des fonctionnalités :
+---
+### Installation :
+
+Vous pouvez installer automatiquement avec l'installateur
+[présent ici](https://github.com/teo-ldsm/VSCode_Pascal_Compiler/realeases/latest)
+
+Sinon, vous pouvez installer le programme en copiant manuellement les 
+fichiers dans les répertoires suivants :
+```tasks.json``` / ```keybindings.json``` --> 
+AppData\Roaming\Code\User
+
+```pascal_compiler.py``` / ```pascal_error_displayer``` --> 
+AppData\Roaming\Code\User\PascalCompiler
+
+---
+
+### Liste des fonctionnalités :
 
 - Quand vous compilez, le programme traduit proprement les erreurs les plus 
   courantes
