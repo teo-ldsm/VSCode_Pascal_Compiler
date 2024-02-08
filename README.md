@@ -26,10 +26,10 @@ Vous pouvez installer automatiquement avec l'installateur
 Sinon, vous pouvez installer le programme en copiant manuellement les 
 fichiers dans les répertoires suivants :
 
-```tasks.json``` / ```keybindings.json``` --> 
+```tasks.json``` & ```keybindings.json``` --> 
 AppData\Roaming\Code\User
 
-```pascal_compiler.py``` / ```pascal_error_displayer``` --> 
+```pascal_compiler.py``` & ```pascal_error_displayer``` --> 
 AppData\Roaming\Code\User\PascalCompiler
 
 ---
